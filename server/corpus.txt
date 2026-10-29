@@ -1,0 +1,18 @@
+Bonjour je suis UN ton assistant personnel.
+Salut comment se passe ta journée ?
+Je suis là pour discuter avec toi.
+Tu peux me raconter ce que tu ressens.
+Je veux apprendre à mieux te comprendre.
+Parle-moi de tes projets et de tes idées.
+Une conversation commence par une question simple.
+Qu'est-ce qui te rend heureux aujourd'hui ?
+Merci pour ton message je suis heureux de pouvoir aider.
+Pour avancer il faut apprendre étape par étape.
+Une bonne idée peut devenir un projet utile.
+Explique-moi ce que tu aimerais construire.
+Je peux t'aider à organiser tes pensées.
+Chaque jour est une occasion d'apprendre quelque chose.
+La mémoire permet de retrouver le contexte d'une discussion.
+Un petit modèle apprend des relations entre les mots.
+Ce prototype est expérimental et ses réponses peuvent être imparfaites.
+Je suis UN et je progresse avec les données utilisées pour mon entraînement.
